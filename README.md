@@ -1,6 +1,6 @@
 #  talk-to-redis - in its language
 
-trying out the new 1.0-M1 release of akk http / stream
+trying out the new 1.0-M1 release of akka http / stream
 
 * start redis
 * sbt "run localhost 6379"
